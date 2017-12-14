@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button-NEXT-popup</name>
+   <tag></tag>
+   <elementGuidId>c7b58974-f4e8-44e0-9436-af436738c9a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'md-button-wrapper'][count(. | //*[text() = '
+            Продолжить
+          ']) = count(//*[text() = '
+            Продолжить
+          '])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>md-button-wrapper</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            Продолжить
+          </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-0&quot;)/md-dialog-container[@class=&quot;md-dialog-container&quot;]/cdk-focus-trap[1]/div[@class=&quot;cdk-focus-trap-content&quot;]/error-dialog[1]/div[@class=&quot;errorDialog dialog padding&quot;]/div[@class=&quot;dialog-body&quot;]/div[@class=&quot;dialog-footer&quot;]/button[@class=&quot;primary&quot;]/span[@class=&quot;md-button-wrapper&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>forgot_pass_button</name>
+   <tag></tag>
+   <elementGuidId>b92e5d9a-24ab-44c0-b169-d28446e49bd9</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>reg-form-forgot</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Забыли пароль?</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;body&quot;]/app-root[1]/div[@class=&quot;p2p&quot;]/app-ui-sub-navigation[1]/registration[@class=&quot;registrationModule&quot;]/div[@class=&quot;reg-register-form&quot;]/div[@class=&quot;reg-register-form__actions-holder&quot;]/div[1]/app-login-form[@class=&quot;form-holder&quot;]/div[@class=&quot;reg-form-wrapper reg-login-form&quot;]/div[@class=&quot;reg-form-info&quot;]/button[@class=&quot;reg-form-forgot&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

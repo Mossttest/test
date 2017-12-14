@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>add_card_button</name>
+   <tag></tag>
+   <elementGuidId>b187965d-f493-46fe-a753-8b5a27ee38f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[count(. | //*[@class = 'md-button-wrapper']) = count(//*[@class = 'md-button-wrapper'])][count(. | //*[text() = '
+              Добавить
+            ']) = count(//*[text() = '
+              Добавить
+            '])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>md-button-wrapper</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+              Добавить
+            </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-0&quot;)/md-dialog-container[@class=&quot;md-dialog-container&quot;]/cdk-focus-trap[1]/div[@class=&quot;cdk-focus-trap-content&quot;]/user-card-dialog[1]/div[@class=&quot;userCardDialog dialog add-card-popup&quot;]/div[@class=&quot;dialog-body&quot;]/form[@class=&quot;left-col ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;popup-button-holder&quot;]/button[@class=&quot;button-add secondary&quot;]/span[@class=&quot;md-button-wrapper&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

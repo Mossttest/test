@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>888acfae-8532-40b4-9506-d6cd6cbcff9d</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>	✓</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../assets/images/check-white.svg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;body&quot;]/app-root[1]/div[@class=&quot;p2p&quot;]/app-ui-sub-navigation[1]/registration[@class=&quot;registrationModule&quot;]/div[@class=&quot;reg-register-form&quot;]/div[@class=&quot;reg-register-form__actions-holder&quot;]/div[@class=&quot;reg-register-form__actions-block&quot;]/div[@class=&quot;reg-actions-block__new-password&quot;]/app-password-form[@class=&quot;form-holder&quot;]/div[@class=&quot;controls&quot;]/div[@class=&quot;success-stats&quot;]/img[1]</value>
+   </webElementProperties>
+</WebElementEntity>
